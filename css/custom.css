@@ -1,0 +1,60 @@
+body{
+	background-color: #000;
+}
+h1{
+	display: inline-block;
+}
+.avatar {
+	display: inline-block;
+	margin-right: 20px;
+}
+.avatar img {
+	border-radius: 100%;
+	width: 120px;
+	height: 120px;
+}
+.border-bottom {
+	border-bottom: 1px solid #ccc;
+}
+.container{
+	background-color: #FFF;
+	/*border-radius: 5px 5px 0px 0px;*/
+	padding-bottom: 20px;
+}
+.header {
+	margin-top: 30px;
+}
+.home {
+	background-color: #000000;
+}
+.home-content{
+	font-size: 1.8em;
+}
+.project-item{
+	background-color: #212121;
+	/*border-bottom: 1px solid #ccc;*/
+}
+.project-item .container {
+	background-color: #000;
+	color: #ccc;
+}
+.project-urocenter {
+	background-color: #66ccff;
+}
+.project-urocenter .container {
+	background-color: #e6e6e6;
+	color: #212121;
+}
+.project-facta {
+	background-color: #ff8000;
+}
+.project-facta .container {
+	background-color: #e6e6e6;
+	color: #212121;
+}
+.project-facta .container a{
+	color: #ff8000;
+}
+.social{
+	padding-top: 50px;
+}
